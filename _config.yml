@@ -1,0 +1,14 @@
+layout_spectrum: 0.27044311561621726
+typography_spectrum: 0.9397681383416057
+color:
+  brandStrength: 0.9165630147326738
+  lightness: 0.6493136321660131
+  saturation: 0.2618994312360883
+  rhythmicContrast: 0.9939850475639105
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: '360'
