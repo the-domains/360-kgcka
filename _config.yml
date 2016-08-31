@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1592fda4-8d1f-464e-ae1d-4d5ce4773c19.png
 name: 360°
 cta:
   domain: null
@@ -34,7 +36,8 @@ navigation:
   - name: Kontakt
     id: a784ed54-4052-4af4-bb23-170084e3b4fd
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b007a217-9601-4449-8830-af95ba1a29ed.png
 title: 360° VR toure
 description: 'cerdobeer mobi: 0310310301 Lendavske gorice132 gmail:cerdobeer@gmail.com'
 purpose: []
