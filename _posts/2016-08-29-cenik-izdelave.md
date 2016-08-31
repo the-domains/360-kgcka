@@ -1,8 +1,8 @@
 ---
 id: 5660c31c-b24a-4716-a3b6-a94ba620a8e0
-dateModified: '2016-08-29T11:50:29.771Z'
+dateModified: '2016-08-29T12:15:05.991Z'
 title: Cenik Izdelave
-datePublished: '2016-08-29T11:50:29.962Z'
+datePublished: '2016-08-29T12:17:17.680Z'
 author: []
 hasPage: true
 description: >-
@@ -15,9 +15,14 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-29-cenik-izdelave.md
-starred: false
+inFeed: true
+inNav: false
+inLanguage: null
+keywords: []
+authors: []
+starred: true
 url: cenik-izdelave/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42aa01df-9775-4560-8eb9-525b31f3d016.png)
