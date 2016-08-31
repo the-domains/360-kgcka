@@ -1,19 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: – – –
-datePublished: '2016-08-29T12:20:53.063Z'
-dateModified: '2016-08-29T12:20:52.086Z'
+datePublished: '2016-08-29T13:10:56.273Z'
 sourcePath: _posts/2016-08-29-kje-vse-boste-vidni.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-29T13:10:55.251Z'
 title: Virtualni sprehodi 360°
 id: 65c88cbb-0ea5-4a28-b183-f8c29bfcf051
-authors: []
 publisher: {}
+description: – – –
+inLanguage: null
+inNav: false
 starred: true
 url: virtualni-sprehodi-360degree/index.html
 _type: Article
