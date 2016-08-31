@@ -1,4 +1,3 @@
-layout_spectrum: 0.27044311561621726
 typography_spectrum: 0.9397681383416057
 color:
   brandStrength: 0.9165630147326738
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.27044311561621726
 name: '360'
+title: 360° VR toure
