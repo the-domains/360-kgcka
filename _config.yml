@@ -31,6 +31,9 @@ navigation:
   - name: Cenik Izdelave
     id: 648f705b-7b7d-4324-8452-42a9c8d1e4be
     type: content
+  - name: Kontakt
+    id: a784ed54-4052-4af4-bb23-170084e3b4fd
+    type: content
 favicon: null
 title: 360° VR toure
 description: 'cerdobeer mobi: 0310310301 Lendavske gorice132 gmail:cerdobeer@gmail.com'
