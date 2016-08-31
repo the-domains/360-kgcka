@@ -1,8 +1,8 @@
 ---
 id: 5660c31c-b24a-4716-a3b6-a94ba620a8e0
-dateModified: '2016-08-29T12:15:05.991Z'
+dateModified: '2016-08-29T12:21:01.603Z'
 title: Cenik Izdelave
-datePublished: '2016-08-29T12:17:17.680Z'
+datePublished: '2016-08-29T12:21:02.403Z'
 author: []
 hasPage: true
 description: >-
