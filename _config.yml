@@ -1,21 +1,4 @@
-name: '360'
-favicon: null
-layout_spectrum: 0.27044311561621726
 typography_spectrum: 0.9397681383416057
-title: 360° VR toure
-description: 'cerdobeer mobi: 0310310301 Lendavske gorice132 gmail:cerdobeer@gmail.com'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#85DB18'
@@ -27,4 +10,21 @@ color:
   lightness: 0.6493136321660131
   saturation: 0.625
   rhythmicContrast: 0.9939850475639105
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.27044311561621726
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: '360'
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 360° VR toure
+description: 'cerdobeer mobi: 0310310301 Lendavske gorice132 gmail:cerdobeer@gmail.com'
 purpose: []
