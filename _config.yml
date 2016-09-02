@@ -1,43 +1,14 @@
+layout_spectrum: 0.27044311561621726
 typography_spectrum: 0.9397681383416057
 color:
-  brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-  brandStrength: 0.8125
+  brandStrength: 0.9165630147326738
   lightness: 0.6493136321660131
-  saturation: 0.625
+  saturation: 0.2618994312360883
   rhythmicContrast: 0.9939850475639105
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.27044311561621726
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1592fda4-8d1f-464e-ae1d-4d5ce4773c19.png
-name: 360°
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Virtualni sprehodi 360°
-    id: 582ef161-d623-4fc2-9fb2-f9b804d6b74a
-    type: content
-  - name: Cenik Izdelave
-    id: 648f705b-7b7d-4324-8452-42a9c8d1e4be
-    type: content
-  - name: Kontakt
-    id: a784ed54-4052-4af4-bb23-170084e3b4fd
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b007a217-9601-4449-8830-af95ba1a29ed.png
-title: 360° VR toure
-description: 'cerdobeer mobi: 0310310301 Lendavske gorice132 gmail:cerdobeer@gmail.com'
-purpose: []
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: '360'
